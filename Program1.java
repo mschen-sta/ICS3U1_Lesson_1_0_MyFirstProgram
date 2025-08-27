@@ -6,8 +6,6 @@ class Program1 extends ConsoleProgram {
   */
   
   public void run() {
-    // your code goes here
-    
-    
+    // Your code goes here 
   }
 }
